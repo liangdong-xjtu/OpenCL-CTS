@@ -10,8 +10,8 @@ set (GL_SOURCES
         test_images_2D.cpp
         test_images_3D.cpp
         test_renderbuffer.cpp
-        test_images_2D_info.cpp
-        test_images_3D_info.cpp
+#        test_images_2D_info.cpp
+#        test_images_3D_info.cpp
         test_renderbuffer_info.cpp
         test_fence_sync.cpp
         helpers.cpp
