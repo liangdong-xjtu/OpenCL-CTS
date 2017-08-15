@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/conformance_test_opencl_h.dir/test_opencl.h.o  -o ../conformance_test_opencl_h -rdynamic 

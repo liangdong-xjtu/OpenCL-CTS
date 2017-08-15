@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/conformance_test_cl_gl_h.dir/test_cl_gl.h.o  -o ../conformance_test_cl_gl_h -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/conformance_test_headers.dir/test_headers.o  -o ../conformance_test_headers -rdynamic 
